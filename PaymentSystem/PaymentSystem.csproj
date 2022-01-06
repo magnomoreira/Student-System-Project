@@ -11,9 +11,6 @@
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Data\" />
-    <Folder Include="Enuns\" />
-    <Folder Include="Services\" />
-    <Folder Include="ValueObject\" />
     <Folder Include="Repository\" />
   </ItemGroup>
 
